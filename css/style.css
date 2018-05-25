@@ -1,0 +1,30 @@
+.panel-heading:hover h4  {
+	 color: #edb542;
+}
+.as_color{	
+	 color: #edb542;
+}
+
+
+
+.well{
+ background-color: #edb542;
+}
+
+.btnnn{
+padding: 10px 15px;
+font-size: 18px;
+line-height: 1.3333333;
+border-radius: 6px;
+color: black;
+border: 2px solid black;
+}
+footer{
+background-color: #222;
+border-color: #080808;
+height: 50px;
+}
+footer p{
+margin: 10px 50px 10px;
+color: #dee6ed;
+}
